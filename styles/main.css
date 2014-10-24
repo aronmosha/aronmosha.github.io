@@ -1,7 +1,7 @@
 body{
 	margin: 0px;
 	font-size: 14px;
-	font-family: ubuntu;
+	font-family: 'PT Sans', sans-serif;
 }
 .row{
 	margin-bottom: 0px;
@@ -45,7 +45,7 @@ body{
 	/*background:#7DB4B5; */
 }
 .add{
-	font-size: 12px;
+	font-size: 14px;
 	text-align: center;
 }
 .list{
@@ -60,4 +60,7 @@ body{
 }
 .content-skills{
 	min-height: 850px;
+}
+.content-right p{
+	margin-top: 10px;
 }
